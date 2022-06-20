@@ -1,14 +1,18 @@
- function olamundo() {
-     console.log("olamundo");
- }
-olamundo();
-function nome(leno) {
-    console.log(`Olá ${leno}`);
-}
-nome("leno")
+//  function olamundo() {
+//      console.log("olamundo");
+//  }
+// olamundo();
+// function nome(leno) {
+//     console.log(`Olá ${leno}`);
+// }
+// nome("leno")
 
 
-function estilos(nome, idade, estiloMusical) {
-    console.log(`Sou ${nome}, tenho ${idade}e gosto de ${estiloMusical}`);
+// function Sobre(mechamo, idade, musica){
+//     console.log(Meu nome é ${mechamo}, tenho ${idade},e gosto de ${musica})
+// }
+function estilo(nome, idade, estiloMusical){
+    console.log(Sou ${nome}, tenho ${idade},e gosto de ${estiloMusical})
 }
-​estilos("leno", "22", "rock");
+
+estilo('leno', 22 ,'rock')
