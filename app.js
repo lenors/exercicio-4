@@ -7,7 +7,8 @@ function nome(leno) {
 }
 nome("leno")
 
-function estilos(leno, vintedois, rock) {
-    console.log(`Sou ${leno}, tenho ${vintedois}e gosto de ${rock}`);
+
+function estilos(nome, idade, estiloMusical) {
+    console.log(`Sou ${nome}, tenho ${idade}e gosto de ${estiloMusical}`);
 }
-​estilos("leno", "vintedois", "rock");
+​estilos("leno", "22", "rock");
